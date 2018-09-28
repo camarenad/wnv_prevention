@@ -22,7 +22,7 @@ Wet-bulb -The lowest temperature that can be reached by evaporating water into t
 
 ## Organization
 
-This project is divided into four different folders:
+This project is divided into four different folders, which we've provided a rundown of here:
 
 - `data`: All represeting various elements of the city of Chicago 
   - Mosquito trap data from 2007 to 2014
@@ -30,13 +30,13 @@ This project is divided into four different folders:
   - GIS pesticide spraying locations from 2011 and 2013
 - `images`: contains images generated within my notebooks and utilized in the presentation file
 - `notebooks`: - contains the actual project documents
-  - `01_Cleaning.ipynb`: 
-  - `02_EDA.ipynb`: 
-  - `03_Preprocessing`: 
+  - `01_Cleaning.ipynb`: Ensuring that our data sources are clean, and that they're ready for EDA as a combined dataset, along with feature engineering.
+  - `02_EDA.ipynb`: Conducting exploratory data analysis ("EDA") on our combined dataset, plotting a number of weather-related features against mosquito abundance in order to get a better idea of the most important features, and transforming our data through feature engineering to ready it for preprocessing and model fitting.
+  - `03_Preprocessing`: Processing our carefully engineered data to utilize for modeling
   - `04_Random_forest_model.ipynb`: 
-  - `4a_log_reg_model.ipynb`:
-  - `i_Cleaning_spray.ipynb`:
-  - `ii_EDA_lag_search.ipynb`:
+  - `4a_log_reg_model.ipynb`: 
+  - `i_Cleaning_spray.ipynb`: Cleaning the spray data provided. This data is not used beyond this notebook, however
+  - `ii_EDA_lag_search.ipynb`: Looking over each of the weather related features. These weather features are also manipulated to determine how they interact with mosquito abundance.
 - `pickle` - contains python variables used in the modeling process
 
 ## Presentation
