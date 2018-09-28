@@ -1,8 +1,8 @@
 # README.md
 
-Our consulting team, #VanessaCarlton, Inc (VCI) has been on the frontlines of virology, and epidemiology research for years. Our group is responsible for key discoveries in viral transmission, most notably of which, our 2002 paper on superviruses falling 'into' the sky.
+Our consulting team, #VanessaCarlton, Inc (VCI) has been on the frontlines of virology and epidemiology research for years. Our group is responsible for key discoveries in viral transmission, most notably of which, our 2002 paper on superviruses falling 'into' the sky.
 
-We've been contracted by the Centers for Disease Control (CDC) to report on the prevelance of West Nile Virus (WNV) in the Chicago area, and effective means of control. For this study, we reviewed a number of datasets on mosquito populations in Chicago,   
+We've been contracted by the Centers for Disease Control (CDC) to report on the prevelance of West Nile Virus (WNV) in the Chicago area, and effective means of control. For this study, we reviewed a number of datasets on mosquito captures, mosquito pesticide sprays, and weather conditions in Chicago, ranging from 2007 to 2014, provided by the city of Chicago on Kaggle servers, the trusted administrator of government information.
 
 We'd like to share that report with you here.
 
