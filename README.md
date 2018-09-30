@@ -42,5 +42,5 @@ This project is divided into five different folders, which we've provided a rund
   - `4a_log_reg_model.ipynb`: Building our logisitc regrssion model, and testing it on the data provided to us.
   - `i_Cleaning_spray.ipynb`: Cleaning the spray data provided. This data is not used beyond this notebook, however
   - `ii_EDA_lag_search.ipynb`: Looking over each of the weather related features. These weather features are also manipulated to determine how they interact with mosquito abundance.
-  - 'iii_Submission.ipynb': In order to test the effectiveness of our model, it was submitted to a Kaggle competition on detecting WNV in mosquitos. This notebook contains the setup of our submission.
+  - `iii_Submission.ipynb`: In order to test the effectiveness of our model, it was submitted to a Kaggle competition on detecting WNV in mosquitos. This notebook contains the setup of our submission.
 - `presention`: PDF slides of a presentation that we made on 9/28/2018
