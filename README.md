@@ -31,7 +31,7 @@ This project is divided into five different folders, which we've provided a rund
 - `assets` - contains python variables used in the modeling process
 - `data`: all of the datasets we received from the City of Chicago, along with several permutations of the datasets that we created to get a better grasp of the data.
   - Mosquito trap data from 2007 to 2014
-  - Weather data from 2007 to 2014 from the[NOAA](http://cdo.ncdc.noaa.gov/qclcd/QCLCD?prior=N)
+  - Weather data from 2007 to 2014 from the [NOAA](http://cdo.ncdc.noaa.gov/qclcd/QCLCD?prior=N)
   - GIS pesticide spraying locations from 2011 and 2013
 - `images`: contains images generated within my notebooks and utilized in the presentation file
 - `notebooks`: - contains the actual project documents
