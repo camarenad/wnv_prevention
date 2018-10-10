@@ -1,9 +1,9 @@
 # README.md
 
 ## Authors
-Daniel Camarena | https://github.com/camarenad. 
-Jon Johnson | https://github.com/jonjohnsontc. 
-Carl Lehman | https://github.com/celehman44. 
+- Daniel Camarena | https://github.com/camarenad
+- Jon Johnson | https://github.com/jonjohnsontc
+- Carl Lehman | https://github.com/celehman44
 
 Our consulting team, #VanessaCarlton, Inc (VCI) has been on the frontlines of virology and epidemiology research for years. Our group is responsible for key discoveries in viral transmission, most notably of which, our 2002 paper on superviruses falling 'into' the sky.
 
