@@ -26,7 +26,7 @@ This project is divided into four different folders, which we've provided a rund
 
 - `data`: All represeting various elements of the city of Chicago 
   - Mosquito trap data from 2007 to 2014
-  - Weather data from 2007 to 2014 from the[NOAA](http://cdo.ncdc.noaa.gov/qclcd/QCLCD?prior=N)
+  - Weather data from 2007 to 2014 from the [NOAA](http://cdo.ncdc.noaa.gov/qclcd/QCLCD?prior=N)
   - GIS pesticide spraying locations from 2011 and 2013
 - `images`: contains images generated within my notebooks and utilized in the presentation file
 - `notebooks`: - contains the actual project documents
