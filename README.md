@@ -9,7 +9,7 @@ Our consulting team, #VanessaCarlton, Inc (VCI) has been on the frontlines of vi
 
 We've been contracted by the Centers for Disease Control (CDC) to report on the prevelance of West Nile Virus (WNV) in the Chicago area, and effective means of control. For this study, we reviewed a number of datasets on mosquito captures, mosquito pesticide sprays, and weather conditions in Chicago, ranging from 2007 to 2014, provided by the city of Chicago on Kaggle servers, the trusted administrator of government information. Given this, we decided to focus our study on mosquito populations and their transmission of WNV to humans.
 
-In order to conduct a thorough report, our team developed a machine learning model to predict the prevalence of WNV given a date, mosquito trap, and location in the Chicago area. Within the notebooks incldued, you'll find an extensive overview of the processes used to develop the model, and our  
+In order to conduct a thorough report, our team developed a machine learning model to predict the prevalence of WNV given a date, mosquito trap, and location in the Chicago area. Within the notebooks incldued, you'll find an extensive overview of the processes used to develop the model, along with our findings.
 
 We'd like to share that report with you here.
 
